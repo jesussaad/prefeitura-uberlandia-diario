@@ -57,4 +57,7 @@ echo ".yarn" >> .gitignore
 yarn add nodemon
 # Troque "start": "node ./bin/www" por "start": "node ./bin/www", "devstart": "nodemon ./bin/www"
 # Agora existe uma forma de iniciar em dev e outra em prod, em dev é essa: DEBUG=express-locallibrary-tutorial:* npm run devstart e em prod é essa: DEBUG=express-generator:* npm start
+
+# Puppeteer
+yarn add puppeteer
 ```
